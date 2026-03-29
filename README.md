@@ -1,4 +1,4 @@
-🧬 Bioinformatics Practice in Python
+print("🧬 Bioinformatics Practice in Python")
 📌 Overview
 
 This repository contains my Python implementations of fundamental bioinformatics problems, primarily inspired by Rosalind.
